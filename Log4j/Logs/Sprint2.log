@@ -1,0 +1,620 @@
+03-10-2018 19:13:04   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationmethod
+****************************************************************
+
+                 userRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Received the activation link
+Opened the activation link in the browser
+User registration is successful
+Sprint 2 functional testing scripts->userRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:05   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 2 functional testing scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:07   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 2 functional testing scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:08   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 2 functional testing scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:10   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 2 functional testing scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:11   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 2 functional testing scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:13   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:14   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:16   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:18   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:20   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:22   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:23   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:25   INFO -Log 
+Started Sprint 2 functional testing scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 2 functional testing scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:29   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+User has logged out of the application
+Sprint 2 functional testing scripts->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:30   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:32   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:44   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:13:54   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:06   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:17   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 2 functional testing scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:29   INFO -Log 
+Started Sprint 2 functional testing scripts->facebookLoginmethod
+****************************************************************
+
+                 facebookLoginmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 2 functional testing scripts->facebookLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:37   INFO -Log 
+Started Sprint 2 functional testing scripts->linkedinLoginmethod
+****************************************************************
+
+                 linkedinLoginmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 2 functional testing scripts->linkedinLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:53   INFO -Log 
+Started Sprint 2 functional testing scripts->googleLoginmethod
+****************************************************************
+
+                 googleLoginmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 2 functional testing scripts->googleLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:14:55   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+User navigated to profile page
+Sprint 2 functional testing scripts->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:02   INFO -Log 
+Started Sprint 2 functional testing scripts->userEditProfileMethod
+****************************************************************
+
+                 userEditProfileMethod             
+
+****************************************************************
+User navigated to edit profile page
+User entered the details and clicked on the save button
+Profile update is successful
+Sprint 2 functional testing scripts->userEditProfileMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:19   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotMethod
+****************************************************************
+
+                 userForgotMethod             
+
+****************************************************************
+User navigated to Login page
+User navigated to forgot password page
+Received the activation link
+Opened the activation link in the browser
+Sprint 2 functional testing scripts->userForgotMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:26   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:32   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:39   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:45   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:51   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:52   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotResetMethod
+****************************************************************
+
+                 userForgotResetMethod             
+
+****************************************************************
+User navigated to reset password page
+Sprint 2 functional testing scripts->userForgotResetMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:53   INFO -Log 
+Started Sprint 2 functional testing scripts->userForgotPassValidationsMethod
+****************************************************************
+
+                 userForgotPassValidationsMethod             
+
+****************************************************************
+User navigated to Login page
+User navigated to forgot password page
+Sprint 2 functional testing scripts->userForgotPassValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:54   INFO -Log 
+Started Sprint 2 functional testing scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+User is on Home Page
+Sprint 2 functional testing scripts->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:55   INFO -Log 
+Started Sprint 2 functional testing scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Password Validations successful
+Sprint 2 functional testing scripts->resetPasswordValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:55   INFO -Log 
+Started Sprint 2 functional testing scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Password Validations successful
+Sprint 2 functional testing scripts->resetPasswordValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:56   INFO -Log 
+Started Sprint 2 functional testing scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Password Validations successful
+Sprint 2 functional testing scripts->resetPasswordValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:56   INFO -Log 
+Started Sprint 2 functional testing scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Password Validations successful
+Sprint 2 functional testing scripts->resetPasswordValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:57   INFO -Log 
+Started Sprint 2 functional testing scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Password Validations successful
+Sprint 2 functional testing scripts->resetPasswordValidationsMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:57   INFO -Log 
+Started Sprint 2 functional testing scripts->userResetMethod
+****************************************************************
+
+                 userResetMethod             
+
+****************************************************************
+User navigated to reset password page
+Password reset successful
+Sprint 2 functional testing scripts->userResetMethod-- passed
+
+
+                 -E---N---D-             
+
+03-10-2018 19:15:58   INFO -Log 
+Started Sprint 2 functional testing scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Sprint 2 functional testing scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+

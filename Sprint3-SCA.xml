@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="sprint one" configfailurepolicy="continue" preserve-order="true">
+	 <listeners>
+		<listener class-name="configure.ReportGenerator" ></listener>
+		<listener class-name="configure.ExtentListener" ></listener>
+	</listeners> 
+ 	<test name="Sprint 3 functional testing scripts for SCA">
+		<classes>
+			<class name="testmethods.LandingPage">
+			</class>
+			<class name="testmethods.userRegistration">
+			</class>
+			<class name="testmethods.UserLogin">
+			</class>
+			<class name="testmethods.UserEditProfile">
+			</class>
+		</classes>
+	</test> 
+</suite>

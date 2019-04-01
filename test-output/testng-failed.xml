@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Learning]">
+  <listeners>
+    <listener class-name="configure.ReportGenerator"/>
+    <listener class-name="configure.ExtentListener"/>
+  </listeners>
+  <test name="Learning Framework">
+    <classes>
+      <class name="testmethods.MessageValues"/>
+    </classes>
+  </test> <!-- Learning Framework -->
+</suite> <!-- Failed suite [Learning] -->

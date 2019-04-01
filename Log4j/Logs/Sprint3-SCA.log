@@ -1,0 +1,680 @@
+20-11-2018 13:19:52   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->verifyHeaderElements
+****************************************************************
+
+                 verifyHeaderElements             
+
+****************************************************************
+Verified the navigation to Enterprise page
+Verified the navigation to login pop-up
+Verified the navigation to sign up pop-up
+The header elements are verified successfully
+Sprint 3 functional testing scripts for SCA->verifyHeaderElements-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:19:58   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->verifyMenuItems
+****************************************************************
+
+                 verifyMenuItems             
+
+****************************************************************
+User is navigated to the Innovations page
+User is navigated to the News & Events page
+User is navigated to the Contact Us page
+User is navigated to the home page
+Menu items and its navigations are successfully verified
+Sprint 3 functional testing scripts for SCA->verifyMenuItems-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:04   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->verifyLogos
+****************************************************************
+
+                 verifyLogos             
+
+****************************************************************
+The logo of the home page is displayed
+The name of the main logo is: scu-logo.png
+The left hand side logo of the home page is displayed
+The name of the left hand side logo is: powered-by.png
+The presence of logos in the page are verified
+Sprint 3 functional testing scripts for SCA->verifyLogos-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:09   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->verifyCarousels
+****************************************************************
+
+                 verifyCarousels             
+
+****************************************************************
+The diploma title is verified successfully: Professional Diplomas
+The course title is verified successfully: Courses
+Carousels are verified successfully
+Sprint 3 functional testing scripts for SCA->verifyCarousels-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:34   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationmethod
+****************************************************************
+
+                 userRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Received the activation link
+Opened the activation link in the browser
+User registration is successful
+Sprint 3 functional testing scripts for SCA->userRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:41   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:47   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:53   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:20:59   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:05   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:13   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:20   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:27   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:33   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:40   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:47   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:21:54   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:00   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Sprint 3 functional testing scripts for SCA->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:07   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationEmailAlreadyTest
+****************************************************************
+
+                 userRegistrationEmailAlreadyTest             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Email already exists scenario is verified
+Sprint 3 functional testing scripts for SCA->userRegistrationEmailAlreadyTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:07   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+DELETE FROM public.appuser where id IN (select user_id from regularuser WHERE email = 'paulantonew@gmail.com' OR username = 'paulantonew@gmail.com')
+Rows affected: 1
+Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:32   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userRegistrationmethod
+****************************************************************
+
+                 userRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Received the activation link
+Opened the activation link in the browser
+User registration is successful
+Sprint 3 functional testing scripts for SCA->userRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:45   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+The dashboard success message is:Here goes your awesome dashboard
+User has logged out of the application
+Sprint 3 functional testing scripts for SCA->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:51   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:22:57   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:23:13   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:23:28   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:23:44   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:24:00   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Sprint 3 functional testing scripts for SCA->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:24:24   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->facebookLoginmethod
+****************************************************************
+
+                 facebookLoginmethod             
+
+****************************************************************
+delete from socialuser where email = 'paauto2005@gmail.com'
+Rows affected: 1
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 3 functional testing scripts for SCA->facebookLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:24:42   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->linkedinLoginmethod
+****************************************************************
+
+                 linkedinLoginmethod             
+
+****************************************************************
+delete from socialuser where email = 'paauto2005@gmail.com'
+Rows affected: 1
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 3 functional testing scripts for SCA->linkedinLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:04   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->googleLoginmethod
+****************************************************************
+
+                 googleLoginmethod             
+
+****************************************************************
+delete from socialuser where email = 'paauto2005@gmail.com'
+Rows affected: 1
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Sprint 3 functional testing scripts for SCA->googleLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:04   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+DELETE FROM public.appuser where id IN (select user_id from regularuser WHERE email = 'paulantonew@gmail.com' OR username = 'paulantonew@gmail.com')
+Rows affected: 1
+Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:23   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->signUpMethod
+****************************************************************
+
+                 signUpMethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Received the activation link
+Opened the activation link in the browser
+The Userpaulantonew@gmail.comis regsistered successfully
+Sprint 3 functional testing scripts for SCA->signUpMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:32   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+The dashboard success message is:Here goes your awesome dashboard
+User is logged into the application successfully
+Sprint 3 functional testing scripts for SCA->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:45   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileGenderValidationTest
+****************************************************************
+
+                 userEditProfileGenderValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+The validation message displayed in the page for the gender field is : Please select a gender
+Sprint 3 functional testing scripts for SCA->userEditProfileGenderValidationTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:25:57   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :Please select a Date of Birth
+The second validation message displayed in the page is :
+The combined actual message is :Please select a Date of Birth
+The combined expected message is :Please select a Date of Birth
+The concatenated error message is :
+Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:26:09   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :Please select a Date of Birth
+The second validation message displayed in the page is :
+The combined actual message is :Please select a Date of Birth
+The combined expected message is :Please select a Date of Birth
+The concatenated error message is :
+Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:26:21   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :
+The second validation message displayed in the page is :Please enter a valid UAE phone number
+The combined actual message is :Please enter a valid UAE phone number
+The combined expected message is :Please enter a valid UAE phone number
+The concatenated error message is :
+Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:26:33   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :
+The second validation message displayed in the page is :Please enter a valid UAE phone number
+The combined actual message is :Please enter a valid UAE phone number
+The combined expected message is :Please enter a valid UAE phone number
+The concatenated error message is :
+Sprint 3 functional testing scripts for SCA->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:26:48   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userEditProfileMethod
+****************************************************************
+
+                 userEditProfileMethod             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+User entered the details and clicked on the save button
+Profile update is successful
+Sprint 3 functional testing scripts for SCA->userEditProfileMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:27:00   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->userViewProfileMethod
+****************************************************************
+
+                 userViewProfileMethod             
+
+****************************************************************
+Verified the full name successfully: Paul Anto
+Verified the job title successfully: Software Engineer
+Verified the email text successfully: paulantonew@gmail.com
+Verified the date of birth value successfully: 16 June, 1999
+Verified the gender detail successfully: Male
+Verified the country detail successfully: Algeria
+Verified the mobile number detail successfully: +971 254685236
+Verified the about text detail successfully: User profile of Paul
+The current social medial url is: https://www.facebook.com/
+Switched back to the parent window: Smart City University
+The current social medial url is: https://www.google.com/
+Switched back to the parent window: Smart City University
+The current social medial url is: https://www.linkedin.com/feed/
+Switched back to the parent window: Smart City University
+Sprint 3 functional testing scripts for SCA->userViewProfileMethod-- passed
+
+
+                 -E---N---D-             
+
+20-11-2018 13:27:01   INFO -Log 
+Started Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+DELETE FROM public.appuser where id IN (select user_id from regularuser WHERE email = 'paulantonew@gmail.com' OR username = 'paulantonew@gmail.com')
+Rows affected: 1
+Sprint 3 functional testing scripts for SCA->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+

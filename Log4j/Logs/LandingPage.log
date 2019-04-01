@@ -1,0 +1,16 @@
+12-12-2018 15:02:34   INFO -Log 
+Started Landing page test cases->verifyHeaderElements
+****************************************************************
+
+                 verifyHeaderElements             
+
+****************************************************************
+Verified the navigation to Enterprise page
+Verified the navigation to login pop-up
+Verified the navigation to sign up pop-up
+The header elements are verified successfully
+Landing page test cases->verifyHeaderElements-- passed
+
+
+                 -E---N---D-             
+

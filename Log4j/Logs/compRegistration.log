@@ -1,0 +1,604 @@
+05-10-2018 20:06:26   INFO -Log 
+Started Company subscription test cases->basicSubscriptionTest
+****************************************************************
+
+                 basicSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Received the activation link
+Opened the activation link in the browser
+Registration page displayed for new user who has not signed up
+Company subscription test cases->basicSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:06:35   INFO -Log 
+Started Company subscription test cases->basicPrimaryRegistrationmethod
+****************************************************************
+
+                 basicPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Primary user registration is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->basicPrimaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:06:58   INFO -Log 
+Started Company subscription test cases->basicSecondaryRegistrationmethod
+****************************************************************
+
+                 basicSecondaryRegistrationmethod             
+
+****************************************************************
+Received the activation link
+Opened the second activation link in the browser
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Secondary user registration is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->basicSecondaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:07:17   INFO -Log 
+Started Company subscription test cases->SilverSubscriptionTest
+****************************************************************
+
+                 SilverSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Silver plan
+Received the activation link
+Opened the activation link in the browser
+Registration page displayed for new user who has not signed up
+Company subscription test cases->SilverSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:07:26   INFO -Log 
+Started Company subscription test cases->userSilverPrimaryRegistrationmethod
+****************************************************************
+
+                 userSilverPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Primary user for a silver plan registration is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->userSilverPrimaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:07:50   INFO -Log 
+Started Company subscription test cases->userSilverSecondaryRegistrationmethod
+****************************************************************
+
+                 userSilverSecondaryRegistrationmethod             
+
+****************************************************************
+Received the activation link
+Opened the second activation link in the browser
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Secondary user registration for a silver plan is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->userSilverSecondaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:08:10   INFO -Log 
+Started Company subscription test cases->goldSubscriptionTest
+****************************************************************
+
+                 goldSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Gold plan
+Received the activation link
+Opened the activation link in the browser
+Registration page displayed for new user who has not signed up
+Company subscription test cases->goldSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:08:20   INFO -Log 
+Started Company subscription test cases->usergoldPrimaryRegistrationmethod
+****************************************************************
+
+                 usergoldPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Primary user for a gold plan registration is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->usergoldPrimaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:08:43   INFO -Log 
+Started Company subscription test cases->usergoldSecondaryRegistrationmethod
+****************************************************************
+
+                 usergoldSecondaryRegistrationmethod             
+
+****************************************************************
+Received the activation link
+Opened the second activation link in the browser
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Secondary user registration for a platinum plan is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->usergoldSecondaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:09:03   INFO -Log 
+Started Company subscription test cases->platinumSubscriptionTest
+****************************************************************
+
+                 platinumSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Platinum plan
+Received the activation link
+Opened the activation link in the browser
+Registration page displayed for new user who has not signed up
+Company subscription test cases->platinumSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:09:12   INFO -Log 
+Started Company subscription test cases->userplatinumPrimaryRegistrationmethod
+****************************************************************
+
+                 userplatinumPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Primary user for a platinum plan registration is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->userplatinumPrimaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:09:36   INFO -Log 
+Started Company subscription test cases->userplatinumSecondaryRegistrationmethod
+****************************************************************
+
+                 userplatinumSecondaryRegistrationmethod             
+
+****************************************************************
+Received the activation link
+Opened the second activation link in the browser
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Secondary user registration for a platinum plan is successful
+User Login pop-up is displayed
+User clicked on the Login button
+User has logged into the application
+Payment page is displayed
+User has logged out of the application
+Company subscription test cases->userplatinumSecondaryRegistrationmethod-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:09:45   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:09:54   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:04   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:13   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:24   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:34   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:44   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:10:54   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:11:05   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:11:15   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:11:25   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration client side validations have been passed
+Company subscription test cases->companyRegistrationValidations-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:11:38   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration server side validations have been passed
+Company subscription test cases->companyRegistrationValidations2-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:11:53   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration server side validations have been passed
+Company subscription test cases->companyRegistrationValidations2-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:06   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company registration server side validations have been passed
+Company subscription test cases->companyRegistrationValidations2-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:07   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:08   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:09   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:10   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:11   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:12   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:12   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:13   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:14   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:15   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:16   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:16   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:17   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+05-10-2018 20:12:18   INFO -Log 
+Started Company subscription test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Company subscription test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+

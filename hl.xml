@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="sample" configfailurepolicy="continue" preserve-order="true">
+	 <listeners>
+		<listener class-name="configure.ReportGenerator" ></listener>
+		<listener class-name="configure.ExtentListener" ></listener>
+	</listeners> 
+ 	<test name="headless testing">
+		<classes>
+			<class name="testmethods.headless">
+			<methods>
+            <include name="headlessMethod"></include>
+            </methods>
+			</class>
+		</classes>
+	</test> 
+</suite>

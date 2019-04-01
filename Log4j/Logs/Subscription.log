@@ -1,0 +1,306 @@
+28-08-2018 12:47:37   INFO -Log 
+Started Company subscription test cases->subscriptionSelectionTest
+****************************************************************
+
+                 subscriptionSelectionTest             
+
+****************************************************************
+Navigated to subsription selection page
+User has navigated to company registration page of a Basic plan
+User has navigated to company registration page of a Silver plan
+User has navigated to company registration page of a Gold plan
+User has navigated to company registration page of a Platinum plan
+Company subscription test cases->subscriptionSelectionTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:48:06   INFO -Log 
+Started Company subscription test cases->BasicSubscriptionTest
+****************************************************************
+
+                 BasicSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Received the activation link
+Opened the activation link in the browser
+Received the activation link
+Opened the second activation link in the browser
+Company subscription test cases->BasicSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:48:35   INFO -Log 
+Started Company subscription test cases->SilverSubscriptionTest
+****************************************************************
+
+                 SilverSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Silver plan
+Received the activation link
+Opened the activation link in the browser
+Received the activation link
+Opened the second activation link in the browser
+Company subscription test cases->SilverSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:04   INFO -Log 
+Started Company subscription test cases->GoldSubscriptionTest
+****************************************************************
+
+                 GoldSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Gold plan
+Received the activation link
+Opened the activation link in the browser
+Received the activation link
+Opened the second activation link in the browser
+Company subscription test cases->GoldSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:32   INFO -Log 
+Started Company subscription test cases->PlatinumSubscriptionTest
+****************************************************************
+
+                 PlatinumSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Platinum plan
+Received the activation link
+Opened the activation link in the browser
+Received the activation link
+Opened the second activation link in the browser
+Company subscription test cases->PlatinumSubscriptionTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:39   INFO -Log 
+Started Company subscription test cases->companySilverPlanValidationsTest
+****************************************************************
+
+                 companySilverPlanValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Silver plan
+Company subscription test cases->companySilverPlanValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:45   INFO -Log 
+Started Company subscription test cases->companyGoldPlanValidationsTest
+****************************************************************
+
+                 companyGoldPlanValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Gold plan
+Company subscription test cases->companyGoldPlanValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:51   INFO -Log 
+Started Company subscription test cases->companyPlatinumPlanValidationsTest
+****************************************************************
+
+                 companyPlatinumPlanValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Platinum plan
+Company subscription test cases->companyPlatinumPlanValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:49:56   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:01   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:05   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:11   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:16   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:22   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:27   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:33   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:39   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidationsTest
+****************************************************************
+
+                 companyRegistrationValidationsTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidationsTest-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:48   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2Test
+****************************************************************
+
+                 companyRegistrationValidations2Test             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidations2Test-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:50:57   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2Test
+****************************************************************
+
+                 companyRegistrationValidations2Test             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidations2Test-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:51:06   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2Test
+****************************************************************
+
+                 companyRegistrationValidations2Test             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidations2Test-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:51:15   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2Test
+****************************************************************
+
+                 companyRegistrationValidations2Test             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidations2Test-- passed
+
+
+                 -E---N---D-             
+
+28-08-2018 12:51:24   INFO -Log 
+Started Company subscription test cases->companyRegistrationValidations2Test
+****************************************************************
+
+                 companyRegistrationValidations2Test             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Company subscription test cases->companyRegistrationValidations2Test-- passed
+
+
+                 -E---N---D-             
+

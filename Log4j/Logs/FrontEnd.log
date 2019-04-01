@@ -1,0 +1,1195 @@
+09-10-2018 15:31:20   ERROR-Log 
+Started Front end automation test scripts->userRegistrationmethod
+****************************************************************
+
+                 userRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User registration unsuccessful
+Front end automation test scripts->userRegistrationmethod-- failed
+
+Front end automation test scripts->userRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:31:26   INFO -Log 
+Started Front end automation test scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Front end automation test scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:31:32   INFO -Log 
+Started Front end automation test scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Front end automation test scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:31:38   INFO -Log 
+Started Front end automation test scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Front end automation test scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:31:44   INFO -Log 
+Started Front end automation test scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Front end automation test scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:31:51   INFO -Log 
+Started Front end automation test scripts->userRegistrationValidationmethod
+****************************************************************
+
+                 userRegistrationValidationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+General sign up validations have been passed
+Front end automation test scripts->userRegistrationValidationmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:31:57   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:04   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:10   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:16   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:23   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:30   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:36   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:42   INFO -Log 
+Started Front end automation test scripts->userRegistrationPasswordmethod
+****************************************************************
+
+                 userRegistrationPasswordmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Password validations have been passed
+Front end automation test scripts->userRegistrationPasswordmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:48   INFO -Log 
+Started Front end automation test scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Front end automation test scripts->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:32:54   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:01   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+User is navigated to home page
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:07   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:13   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:19   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:25   INFO -Log 
+Started Front end automation test scripts->userLoginValidationMethod
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+Front end automation test scripts->userLoginValidationMethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:43   INFO -Log 
+Started Front end automation test scripts->facebookLoginmethod
+****************************************************************
+
+                 facebookLoginmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User has logged out of the application
+Front end automation test scripts->facebookLoginmethod-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:33:54   ERROR-Log 
+Started Front end automation test scripts->linkedinLoginmethod
+****************************************************************
+
+                 linkedinLoginmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Front end automation test scripts->linkedinLoginmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:00   ERROR-Log 
+Started Front end automation test scripts->googleLoginmethod
+****************************************************************
+
+                 googleLoginmethod             
+
+****************************************************************
+User is navigated to home page
+Front end automation test scripts->googleLoginmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:05   ERROR-Log 
+Started Front end automation test scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+Login is unsuccessful
+Front end automation test scripts->userLoginMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:05   ERROR-Log 
+Started Front end automation test scripts->userEditProfileMethod
+****************************************************************
+
+                 userEditProfileMethod             
+
+****************************************************************
+User navigated to edit profile page
+Edit Profile is unsuccessful
+Front end automation test scripts->userEditProfileMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:11   ERROR-Log 
+Started Front end automation test scripts->userForgotMethod
+****************************************************************
+
+                 userForgotMethod             
+
+****************************************************************
+Reset password is unsuccessful
+Front end automation test scripts->userForgotMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:11   ERROR-Log 
+Started Front end automation test scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:11   ERROR-Log 
+Started Front end automation test scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:11   ERROR-Log 
+Started Front end automation test scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:12   ERROR-Log 
+Started Front end automation test scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:12   ERROR-Log 
+Started Front end automation test scripts->userForgotValidationsMethod
+****************************************************************
+
+                 userForgotValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:12   ERROR-Log 
+Started Front end automation test scripts->userForgotResetMethod
+****************************************************************
+
+                 userForgotResetMethod             
+
+****************************************************************
+User navigated to reset password page
+Reset password is unsuccessful
+Front end automation test scripts->userForgotResetMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:17   ERROR-Log 
+Started Front end automation test scripts->userForgotPassValidationsMethod
+****************************************************************
+
+                 userForgotPassValidationsMethod             
+
+****************************************************************
+Reset password is unsuccessful
+Front end automation test scripts->userForgotPassValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:23   ERROR-Log 
+Started Front end automation test scripts->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+Login is unsuccessful
+Front end automation test scripts->userLoginMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:23   ERROR-Log 
+Started Front end automation test scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Errors occurred during reset password validations
+Front end automation test scripts->resetPasswordValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:23   ERROR-Log 
+Started Front end automation test scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Errors occurred during reset password validations
+Front end automation test scripts->resetPasswordValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:23   ERROR-Log 
+Started Front end automation test scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Errors occurred during reset password validations
+Front end automation test scripts->resetPasswordValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:24   ERROR-Log 
+Started Front end automation test scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Errors occurred during reset password validations
+Front end automation test scripts->resetPasswordValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:24   ERROR-Log 
+Started Front end automation test scripts->resetPasswordValidationsMethod
+****************************************************************
+
+                 resetPasswordValidationsMethod             
+
+****************************************************************
+User navigated to reset password page
+Errors occurred during reset password validations
+Front end automation test scripts->resetPasswordValidationsMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:24   ERROR-Log 
+Started Front end automation test scripts->userResetMethod
+****************************************************************
+
+                 userResetMethod             
+
+****************************************************************
+User navigated to reset password page
+Password is not reset successfully
+Front end automation test scripts->userResetMethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:25   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:34:31   ERROR-Log 
+Started Front end automation test scripts->basicSubscriptionTest
+****************************************************************
+
+                 basicSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Basic subscription company registration is unsuccessful
+Front end automation test scripts->basicSubscriptionTest-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:31   ERROR-Log 
+Started Front end automation test scripts->basicPrimaryRegistrationmethod
+****************************************************************
+
+                 basicPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Primary user registration unsuccessful
+Front end automation test scripts->basicPrimaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:44   ERROR-Log 
+Started Front end automation test scripts->basicSecondaryRegistrationmethod
+****************************************************************
+
+                 basicSecondaryRegistrationmethod             
+
+****************************************************************
+Secondary user registration unsuccessful
+Front end automation test scripts->basicSecondaryRegistrationmethod-- failed
+
+Front end automation test scripts->basicSecondaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:50   ERROR-Log 
+Started Front end automation test scripts->SilverSubscriptionTest
+****************************************************************
+
+                 SilverSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Silver plan
+Silver subscription company registration is unsuccessful
+Front end automation test scripts->SilverSubscriptionTest-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:34:50   ERROR-Log 
+Started Front end automation test scripts->userSilverPrimaryRegistrationmethod
+****************************************************************
+
+                 userSilverPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Primary user for a silver plan registration unsuccessful
+Front end automation test scripts->userSilverPrimaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:01   ERROR-Log 
+Started Front end automation test scripts->userSilverSecondaryRegistrationmethod
+****************************************************************
+
+                 userSilverSecondaryRegistrationmethod             
+
+****************************************************************
+Secondary user registration unsuccessful
+Front end automation test scripts->userSilverSecondaryRegistrationmethod-- failed
+
+Front end automation test scripts->userSilverSecondaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:07   ERROR-Log 
+Started Front end automation test scripts->goldSubscriptionTest
+****************************************************************
+
+                 goldSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Gold plan
+gold subscription company registration is unsuccessful
+Front end automation test scripts->goldSubscriptionTest-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:07   ERROR-Log 
+Started Front end automation test scripts->usergoldPrimaryRegistrationmethod
+****************************************************************
+
+                 usergoldPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Primary user for a gold plan registration unsuccessful
+Front end automation test scripts->usergoldPrimaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:19   ERROR-Log 
+Started Front end automation test scripts->usergoldSecondaryRegistrationmethod
+****************************************************************
+
+                 usergoldSecondaryRegistrationmethod             
+
+****************************************************************
+Secondary user registration unsuccessful
+Front end automation test scripts->usergoldSecondaryRegistrationmethod-- failed
+
+Front end automation test scripts->usergoldSecondaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:25   ERROR-Log 
+Started Front end automation test scripts->platinumSubscriptionTest
+****************************************************************
+
+                 platinumSubscriptionTest             
+
+****************************************************************
+User has navigated to company registration page of a Platinum plan
+platinum subscription company registration is unsuccessful
+Front end automation test scripts->platinumSubscriptionTest-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:25   ERROR-Log 
+Started Front end automation test scripts->userplatinumPrimaryRegistrationmethod
+****************************************************************
+
+                 userplatinumPrimaryRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+Primary user for a platinum plan registration unsuccessful
+Front end automation test scripts->userplatinumPrimaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:37   ERROR-Log 
+Started Front end automation test scripts->userplatinumSecondaryRegistrationmethod
+****************************************************************
+
+                 userplatinumSecondaryRegistrationmethod             
+
+****************************************************************
+Secondary user registration unsuccessful
+Front end automation test scripts->userplatinumSecondaryRegistrationmethod-- failed
+
+Front end automation test scripts->userplatinumSecondaryRegistrationmethod-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:43   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:49   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:35:55   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:01   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:07   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:13   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:19   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:25   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:31   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:37   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:43   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations
+****************************************************************
+
+                 companyRegistrationValidations             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration client side validations
+Front end automation test scripts->companyRegistrationValidations-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:49   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration server side validations
+Front end automation test scripts->companyRegistrationValidations2-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:36:54   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration server side validations
+Front end automation test scripts->companyRegistrationValidations2-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:37:00   ERROR-Log 
+Started Front end automation test scripts->companyRegistrationValidations2
+****************************************************************
+
+                 companyRegistrationValidations2             
+
+****************************************************************
+User has navigated to company registration page of a Basic plan
+Some errors/exceptions occurred while verifying company registration server side validations
+Front end automation test scripts->companyRegistrationValidations2-- failed
+
+/home/qbuser/ConsenSys_Automation/automation/ConsenSys
+
+                 -E---N---D-             
+
+09-10-2018 15:37:02   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:03   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:04   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:05   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:06   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:07   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:08   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:10   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:11   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:12   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:13   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:14   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:16   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+
+09-10-2018 15:37:17   INFO -Log 
+Started Front end automation test scripts->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+Front end automation test scripts->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+

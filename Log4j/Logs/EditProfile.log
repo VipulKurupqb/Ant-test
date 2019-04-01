@@ -1,0 +1,181 @@
+14-11-2018 18:38:42   INFO -Log 
+Started Edit profile test cases->signUpMethod
+****************************************************************
+
+                 signUpMethod             
+
+****************************************************************
+User is navigated to home page
+User sign up pop-up is displayed
+User clicked on the Sign up button
+Received the activation link
+Opened the activation link in the browser
+The Userpaulantonew@gmail.comis regsistered successfully
+Edit profile test cases->signUpMethod-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:38:51   INFO -Log 
+Started Edit profile test cases->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Login pop-up is displayed
+User clicked on the Login button
+The dashboard success message is:Here goes your awesome dashboard
+User is logged into the application successfully
+Edit profile test cases->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:39:03   INFO -Log 
+Started Edit profile test cases->userEditProfileGenderValidationTest
+****************************************************************
+
+                 userEditProfileGenderValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+The validation message displayed in the page for the gender field is : Please select a gender
+Edit profile test cases->userEditProfileGenderValidationTest-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:39:16   INFO -Log 
+Started Edit profile test cases->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :Please select a Date of Birth
+The second validation message displayed in the page is :
+The combined actual message is :Please select a Date of Birth
+The combined expected message is :Please select a Date of Birth
+The concatenated error message is :
+Edit profile test cases->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:39:28   INFO -Log 
+Started Edit profile test cases->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :Please select a Date of Birth
+The second validation message displayed in the page is :
+The combined actual message is :Please select a Date of Birth
+The combined expected message is :Please select a Date of Birth
+The concatenated error message is :
+Edit profile test cases->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:39:40   INFO -Log 
+Started Edit profile test cases->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :
+The second validation message displayed in the page is :Please enter a valid UAE phone number
+The combined actual message is :Please enter a valid UAE phone number
+The combined expected message is :Please enter a valid UAE phone number
+The concatenated error message is :
+Edit profile test cases->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:39:52   INFO -Log 
+Started Edit profile test cases->userEditProfileValidationTest
+****************************************************************
+
+                 userEditProfileValidationTest             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+The first validation message displayed in the page is :
+The second validation message displayed in the page is :Please enter a valid UAE phone number
+The combined actual message is :Please enter a valid UAE phone number
+The combined expected message is :Please enter a valid UAE phone number
+The concatenated error message is :
+Edit profile test cases->userEditProfileValidationTest-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:40:07   INFO -Log 
+Started Edit profile test cases->userEditProfileMethod
+****************************************************************
+
+                 userEditProfileMethod             
+
+****************************************************************
+User is navigated to edit profile page
+User navigated to edit profile page
+User entered the details and clicked on the save button
+Profile update is successful
+Edit profile test cases->userEditProfileMethod-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:40:17   INFO -Log 
+Started Edit profile test cases->userViewProfileMethod
+****************************************************************
+
+                 userViewProfileMethod             
+
+****************************************************************
+Verified the full name successfully: Paul Anto
+Verified the job title successfully: Software Engineer
+Verified the email text successfully: paulantonew@gmail.com
+Verified the date of birth value successfully: 16 June, 1999
+Verified the gender detail successfully: Male
+Verified the country detail successfully: Algeria
+Verified the mobile number detail successfully: +971 254685236
+Verified the about text detail successfully: User profile of Paul
+The current social medial url is: https://www.facebook.com/
+Switched back to the parent window: Smart City University
+The current social medial url is: https://www.google.com/
+Switched back to the parent window: Smart City University
+The current social medial url is: https://in.linkedin.com/
+Switched back to the parent window: Smart City University
+Edit profile test cases->userViewProfileMethod-- passed
+
+
+                 -E---N---D-             
+
+14-11-2018 18:40:18   INFO -Log 
+Started Edit profile test cases->dataBaseDeleteUser
+****************************************************************
+
+                 dataBaseDeleteUser             
+
+****************************************************************
+DELETE FROM public.appuser where id IN (select user_id from regularuser WHERE email = 'paulantonew@gmail.com' OR username = 'paulantonew@gmail.com')
+Rows affected: 1
+Edit profile test cases->dataBaseDeleteUser-- passed
+
+
+                 -E---N---D-             
+

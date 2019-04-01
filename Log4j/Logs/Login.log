@@ -1,0 +1,55 @@
+19-03-2019 11:24:35   ERROR-Log 
+Started User Sign up and login->userRegistrationmethod
+****************************************************************
+
+                 userRegistrationmethod             
+
+****************************************************************
+User is navigated to home page
+User registration unsuccessful
+User Sign up and login->userRegistrationmethod-- failed
+
+E:\Automation\FE
+
+                 -E---N---D-             
+
+19-03-2019 11:24:52   INFO -Log 
+Started User Sign up and login->userLoginMethod
+****************************************************************
+
+                 userLoginMethod             
+
+****************************************************************
+User is navigated to home page
+User Sign up and login->userLoginMethod-- passed
+
+
+                 -E---N---D-             
+
+19-03-2019 11:24:52   WARN -Log 
+User Sign up and login->userLoginValidationMethod skipped
+
+****************************************************************
+
+                 userLoginValidationMethod             
+
+****************************************************************
+
+                 -E---N---D-             
+
+19-03-2019 11:25:08   ERROR-Log 
+Started User Sign up and login->facebookLoginmethod
+****************************************************************
+
+                 facebookLoginmethod             
+
+****************************************************************
+delete from socialuser where email = 'paauto2005@gmail.com'
+Rows affected: 0
+User is navigated to home page
+User Sign up and login->facebookLoginmethod-- failed
+
+E:\Automation\FE
+
+                 -E---N---D-             
+
